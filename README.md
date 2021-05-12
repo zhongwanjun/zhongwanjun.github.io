@@ -1,2 +1,2 @@
-# guody.github.io
+# .github.io
 My Personal Page
