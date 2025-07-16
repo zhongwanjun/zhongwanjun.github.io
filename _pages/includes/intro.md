@@ -18,7 +18,7 @@ I published over 40+ papers in top-tier AI conferences and journals, including N
 - **Agent Foundation Model and Reinforcement Learning**
 - **Reasoning towards AGI**
 
-# Work Experience & Education
+<!-- # Work Experience & Education
 
 ## Work Experience
 - **ByteDance Seed Edge Team - Senior Research Scientist**
@@ -37,9 +37,9 @@ I published over 40+ papers in top-tier AI conferences and journals, including N
     - **Project Experience**: Research scientist in Large Language Models, specializing in PanGu foundation model instruction tuning, data flywheel, Agent super-alignment and complex reasoning research and implementation.
 
 - **Microsoft Research Asia - Joint Ph.D. Program Long-term Internship**
-    - **Time**: June 2018 – June 2023
+    - **Time**: June 2018 – June 2023 -->
 
-## Education
+<!-- ## Education
 - **Sun Yat-Sen University (SYSU) - Microsoft Research Asia (MSRA) Joint Ph.D. Program**
     - **Time**: Sep 2018 – June 2023
     - **Degree**: Ph.D. in Computer Science and Technology
@@ -47,9 +47,9 @@ I published over 40+ papers in top-tier AI conferences and journals, including N
 
 - **Sun Yat-Sen University (SYSU)**
     - **Time**: Sep 2014 – June 2018
-    - **Degree**: Bachelor of Software Engineering, School of Data Science and Computer Science
+    - **Degree**: Bachelor of Software Engineering, School of Data Science and Computer Science -->
 
-# Honors & Awards
+<!-- # Honors & Awards
 
 ## Academic Competitions
 - **CVPR - Ego4D Challenge for Episodic Memory Natural Language Queries**: Champion (2023)
@@ -65,4 +65,4 @@ I published over 40+ papers in top-tier AI conferences and journals, including N
 - **National Scholarship for Doctoral Students (Top 0.2%)**: 2020
 - **First Prize Scholarship**: 2016
 - **Second Prize Scholarship**: 2017, 2018, 2019, 2020
-- **Special Scholarship**: 2015
+- **Special Scholarship**: 2015 -->

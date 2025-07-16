@@ -1,27 +1,33 @@
 
-# 📖 Educations
-- *2018.09 - 2023.06*, Ph.D. in Computer Science and Technology, Sun Yat-sen University (SYSU), Joint Ph.D. program with Microsoft Research Asia (MSRA)
-- *2014.09 - 2018.06*, Bachelor in Software Engineering, School of Data Science and Computer Science, Sun Yat-sen University (SYSU)
+# 📖 教育背景
+- *2018.09 - 2023.06*, **计算机科学与技术专业博士学位**, 中山大学 (SYSU), 与微软亚洲研究院 (MSRA) 联合培养博士生项目
+- *2014.09 - 2018.06*, **软件工程专业学士学位**, 中山大学数据科学与计算机学院 (SYSU)
 
-# 💼 Work Experience
-- *2024.06 - Present*, **Senior Research Scientist**, ByteDance Seed Edge Team, Beijing
-  - Member of TopSeed program
-  - Focus: Large Language Models, Reasoning towards AGI, Agent foundation models
-- *2023.06 - 2024.06*, **Research Scientist (TopMind Program Member)**, Huawei Noah's Ark Lab, Speech & Semantic Lab, Shenzhen
-  - Focus: Large Language Model instruction tuning, data flywheel, Agent super-alignment and complex reasoning
+# 💼 工作经历
+- *2024.06 - 至今*, **字节跳动Seed Edge团队 - 大模型高级研究员**
+    - **职责**：大语言模型和Agent方向高级研究员，参与TopSeed人才计划
+    - **项目经历**：
+      - 豆包线上用户数据飞轮
+      - Seed-Thinking长思维链推理模型
+      - Seed-Agent基座模型：
+        - UI-TARS （业界开源的GUI+Game Agent基座模型）的训练
+        - ReTool (Agent多轮工具调用强化学习训练框架)
+        - MCP工具增强的DeepReseach模型及通用Agent基座模型训练
 
-# 💬 Academic Supervision
-- **Ph.D. Advisors**: Dr. Ming Zhou (Microsoft Research Asia), Prof. Jian Yin (SYSU), Prof. Jiahai Wang (SYSU)
-- **Mentor at MSRA**: Dr. Nan Duan (Natural Language Computing Group)
+- *2023.06 - 2024.06*, **华为诺亚方舟实验室 - 语音语义实验室 - 研究员（天才少年）**
+    - **项目经历**：大语言模型方向研究员，专门负责盘古基础语言模型指令微调、数据飞轮、Agent超级对齐和复杂推理等研究和落地
 
-# 🏆 Competition Awards
-- **CVPR Ego4D Challenge for Episodic Memory Natural Language Queries**: 1st Place (2023)
-- **ECCV Ego4D Challenge for Episodic Memory Natural Language Queries**: 3rd Place (2022)
-- **Global (Nanjing) AI Application Competition**: Outstanding Award (2018)
-- **National Mathematical Contest in Modeling**: National Second Prize (2016)
-- **FASHIONAI Global Challenge**: 3rd & 7th in Semi-finals (2018)
+- *2018.06 - 2023.06*, **微软亚洲研究院 - 联合培养项目长期实习**
+  - 导师：段楠博士和周明博士
 
-# 🔬 Research Internship
-- *2018.06 - 2023.06*, **Research Intern**, Natural Language Computing Group, Microsoft Research Asia (MSRA), Beijing
-  - Long-term internship as part of joint Ph.D. program
-  - Mentor: Dr. Nan Duan
+# 💬 学术指导
+- **博士生导师**：周明博士（澜舟科技CEO，前微软亚洲研究院副院长），印鉴教授（中山大学），王甲海教授（中山大学）
+- **微软亚洲研究院导师**：段楠博士（自然语言计算组）
+
+
+
+
+# 🔬 研究实习
+- *2018.06 - 2023.06*, **研究实习生**, 微软亚洲研究院 (MSRA) 自然语言计算组, 北京
+  - 联合培养博士项目期间的长期实习
+  - 导师：段楠博士

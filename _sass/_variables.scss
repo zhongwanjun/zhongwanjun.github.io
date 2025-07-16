@@ -50,35 +50,25 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #6c757d;
-$dark-gray                  : #495057;
-$darker-gray                : #343a40;
-$light-gray                 : #adb5bd;
-$lighter-gray               : #f8f9fa;
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #f8f9fa;
-$code-background-color      : #f1f3f4;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : #2c3e50;
-$border-color               : #e9ecef;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
 
-$primary-color              : #3498db;
-$success-color              : #27ae60;
-$warning-color              : #f39c12;
-$danger-color               : #e74c3c;
-$info-color                 : #2980b9;
-
-/* 新增现代化颜色 */
-$accent-color               : #6c63ff;
-$secondary-color            : #95a5a6;
-$card-background            : #ffffff;
-$card-shadow                : 0 4px 20px rgba(0, 0, 0, 0.08);
-$card-shadow-hover          : 0 8px 30px rgba(0, 0, 0, 0.12);
-$section-background         : #ffffff;
-$gradient-primary           : linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-$gradient-secondary         : linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-$gradient-accent            : linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #224b8d;
+// $info-color                 : #52adc8;
 
 /* brands */
 $behance-color              : #1769FF;

@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wanjun Zhong (钟宛君)"
 description              : "Senior Research Scientist at ByteDance Seed, focusing on Large Language Models, Reasoning towards AGI, and Agent Foundation Models."
-repository               : "zhongwanjun/wanjun.github.io"
+repository               : "zhongwanjun/zhongwanjun.github.io"
 google_scholar_stats_use_cdn : true
 
 # URL Settings
@@ -29,7 +29,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Wanjun Zhong (钟宛君)"
-  avatar           : "images/wanjun_profile.jpg"
+  avatar           : "/images/wanjun_profile.jpg"
   bio              : "ByteDance Seed"
   location         : "China"
   employer         :

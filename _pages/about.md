@@ -15,26 +15,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="content-section intro-section">
 {% include_relative includes/intro.md %}
-</div>
 
-<div class="content-section homepage-section">
-{% include_relative includes/homepage.md %}
-</div>
-
-<div class="content-section news-section">
 {% include_relative includes/news_en.md %}
-</div>
 
-<div class="content-section publications-section">
-{% include_relative includes/pub_wj.md %}
-</div>
 
-<div class="content-section honors-section">
-{% include_relative includes/honers_en.md %}
-</div>
-
-<div class="content-section others-section">
 {% include_relative includes/others_en.md %}
-</div>
+
+{% include_relative includes/honers_en.md %}
+
+
+
+{% include_relative includes/pub_wj.md %}
+
