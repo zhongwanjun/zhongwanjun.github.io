@@ -1,7 +1,7 @@
 # About Me
 
 I work at ByteDance Seed, as a senior research scientist and a member of TopSeed program. 
-I am working on advancing reasoning capability (like O1) of Large Language Models (LLMs) and Agent foundation model. 
+I am working on advancing reasoning capability of Large Language Models (LLMs) and Agent foundation models. I am a core contributor to **Seed 1.8** and **Seed 2.0**, the leading Agent foundation models powering products like **豆包专家模式** and **豆包超能模式**.
 We are hiring **research interns** and looking for **academic cooperation**, please feel free to email me at [wanjun@bytedance.com](mailto:wanjun@bytedance.com)
 
 Prior to that, I worked at [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) as a research scientist and a member of Huawei TopMind program.

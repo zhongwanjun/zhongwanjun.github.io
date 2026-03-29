@@ -6,12 +6,13 @@
 # 💼 Work Experience
 -  *2024.06 - Present*,**ByteDance Seed Edge Team - Senior Research Scientist**
     - **Project Experience**:
-      - Douban online user data flywheel
+      - Seed 1.8 & Seed 2.0 (Leading Agent foundation models, core contributor)
+      - 豆包专家模式 & 豆包超能模式 (Doubao Expert & Super Mode)
       - Seed-Thinking long chain-of-thought reasoning model
       - Seed-Agent foundation model:
         - UI-TARS (Industry-leading open-source GUI+Game Agent foundation model) training
         - ReTool (Agent multi-turn tool calling reinforcement learning training framework)
-        - MCP-enhancedgeneral Agent foundation model training
+        - MCP-enhanced general Agent foundation model training
 
 - *2023.06 - 2024.06*, **Huawei Noah's Ark Lab - Speech & Semantic Lab - Research Scientist (TopMind Program)**
     - **Project Experience**: Research scientist in Large Language Models, specializing in PanGu foundation model instruction tuning, data flywheel, Agent super-alignment and complex reasoning research and implementation.

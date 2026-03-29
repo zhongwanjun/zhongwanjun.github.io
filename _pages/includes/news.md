@@ -1,4 +1,8 @@
 # 🔥 News
+- *2026.02* Release **Seed 2.0** as a core contributor, the leading Agent foundation models!
+- *2026.02* Release **豆包专家模式** and **豆包超能模式** 
+- *2025.12* Release **Seed 1.8** as a core contributor.
+- *2025.09* Release **UI-TARS-2**, a multi-modal unified agent models capable of coding, tool using and GUI operation, achieving leading performance.
 - *2025.04*: 🎉 Joined ByteDance Seed Edge team as Senior Research Scientist focusing on Large Language Models and Agent foundation models!
 - *2025.04* Released **ReTool**: A reinforcement learning-based multi-turn tool-use agent training framework!
 - *2025.04*: 🎉 **Seed-VL-v1.5** technical report released, advancing multi-modal models with great understanding and reasoning capabilities!
