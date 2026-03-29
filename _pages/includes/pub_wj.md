@@ -1,6 +1,9 @@
 
 # 📝 Publications 
 ## Works in Seed
+- ``Seed Technical Report`` [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)
+- ``Seed Technical Report`` [Seed1.8 Model Card: Towards Generalized Real-World Agency](https://arxiv.org/abs/2603.20633)
+- ``Seed Technical Report`` [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.02544)
 - ``Seed Technical Report`` [Seed1.5-VL Technical Report](https://arxiv.org/pdf/2505.07062)
 - ``Seed Technical Report`` [Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning](https://arxiv.org/pdf/2504.13914v1)
 - ``Seed Technical Report`` [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
