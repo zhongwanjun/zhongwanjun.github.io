@@ -3,7 +3,7 @@
 **钟宛君** || zhongwj25@mail2.sysu.edu.cn || https://zhongwanjun.github.io || (+86) 13609749192
 
 我目前在字节跳动Seed团队担任高级研究员，参与TopSeed人才计划。
-我的研究方向专注于大语言模型（LLMs）的复杂推理能力和Agent基座模型。我是**Seed 1.8**和**Seed 2.0**（领先的Agent基座模型）的核心贡献者，相关成果已应用于**豆包专家模式**和**豆包超能模式**等产品。
+我的研究方向专注于大语言模型（LLMs）的复杂推理能力和Agent基座模型。
 我们正在招聘**研究实习生**并寻求**学术合作**，欢迎随时联系我：[wanjun@bytedance.com](mailto:wanjun@bytedance.com)
 
 在此之前，我曾在[华为诺亚方舟实验室](http://dev3.noahlab.com.hk/)担任高级研究员，参与华为天才少年计划。
