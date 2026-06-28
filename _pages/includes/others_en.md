@@ -5,12 +5,15 @@
 
 # 💼 Work Experience
 -  *2024.06 - Present*,**ByteDance Seed Edge Team - Senior Research Scientist**
+    - **Role**: Senior Research Scientist in LLMs and Agents, member of TopSeed program, one of the algorithm leads for general agent optimization
     - **Project Experience**:
-      - Seed 1.8 & Seed 2.0 (Leading Agent foundation models, core contributor)
+      - Seed 1.8 & Seed 2.0 & Seed 2.1 (Leading next-generation Agent foundation models, core contributor)
+      - Office Task Mode of 豆包专业版 (Doubao Pro) — built from the ground up as one of the algorithm leads
       - 豆包专家模式 & 豆包超能模式 (Doubao Expert & Super Mode)
+      - Agent-World (scalable real-world environment synthesis for evolving general agent intelligence)
       - Seed-Thinking long chain-of-thought reasoning model
       - Seed-Agent foundation model:
-        - UI-TARS (Industry-leading open-source GUI+Game Agent foundation model) training
+        - UI-TARS & UI-TARS-2 (Industry-leading open-source GUI+Game Agent foundation models) training
         - ReTool (Agent multi-turn tool calling reinforcement learning training framework)
         - MCP-enhanced general Agent foundation model training
 

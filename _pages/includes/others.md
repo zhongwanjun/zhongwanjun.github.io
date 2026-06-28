@@ -5,13 +5,15 @@
 
 # 💼 工作经历
 - *2024.06 - 至今*, **字节跳动Seed团队 - 大模型高级研究员**
-    - **职责**：大语言模型和Agent方向高级研究员，参与TopSeed人才计划
+    - **职责**：大语言模型和Agent方向高级研究员，参与TopSeed人才计划，通用Agent优化算法负责人之一
     - **项目经历**：
-      - Seed 1.8 & Seed 2.0 (领先的Agent基座模型，核心贡献者)
+      - Seed 1.8 & Seed 2.0 & Seed 2.1 (领先的新一代Agent基座模型，核心贡献者)
+      - 豆包专业版办公任务模式 (Office Task Mode of Doubao Pro，从0到1搭建，算法负责人之一)
       - 豆包专家模式 & 豆包超能模式
+      - Agent-World (面向通用Agent智能进化的可扩展真实环境合成)
       - Seed-Thinking长思维链推理模型
       - Seed-Agent基座模型：
-        - UI-TARS （业界开源的GUI+Game Agent基座模型）的训练
+        - UI-TARS & UI-TARS-2 （业界领先的开源GUI+Game Agent基座模型）的训练
         - ReTool (Agent多轮工具调用强化学习训练框架)
         - MCP工具增强的DeepResearch模型及通用Agent基座模型训练
 

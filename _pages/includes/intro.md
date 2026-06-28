@@ -1,7 +1,7 @@
 # About Me
 
 I work at ByteDance Seed, as a senior research scientist and a member of TopSeed program. 
-I am working on advancing the reasoning and agentic capabilities of Large Language Models (LLMs) and general Agent foundation models, contributing to the ByteDance Seed model series (e.g., Seed 2.1) and Doubao products as one of the algorithm leads for general agent optimization. 
+I am working on advancing the reasoning and agentic capabilities of Large Language Models (LLMs) and general Agent foundation models. As one of the algorithm leads for general agent optimization, I contribute to the ByteDance Seed model series (e.g., Seed 2.1) and Doubao products, including building the Office Task Mode of Doubao Pro from the ground up and exploring scalable real-world environment synthesis (Agent-World). 
 We are hiring **research interns** and looking for **academic cooperation**, please feel free to email me at [wanjun@bytedance.com](mailto:wanjun@bytedance.com)
 
 Prior to that, I worked at [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/) as a research scientist and a member of Huawei TopMind program.
@@ -11,7 +11,7 @@ As a joint Ph.D. student, I was advised by [Dr. Ming Zhou](https://scholar.googl
 
 I won the [Microsoft Research Fellowship Award](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people) (11 outstanding Ph.D. in Asia-Pacific area each year) in 2021, and is selected as a member of [Huawei TopMind program](https://career.huawei.com/reccampportal/portal5/topminds.html) in 2023. 
 
-I published over 40+ papers in top-tier AI conferences and journals, including NeurIPS, ICLR, ACL, EMNLP, TASLP, NAACL, AAAI, IJCAI, ISSTA, etc.
+I published over 50+ papers in top-tier AI conferences and journals, including NeurIPS, ICLR, ACL, EMNLP, TASLP, NAACL, AAAI, IJCAI, ISSTA, etc.
 
 ## My Research Interests
 - **Large Language Model**
