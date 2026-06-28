@@ -8,8 +8,8 @@
     - **Role**: Senior Research Scientist in LLMs and Agents, member of TopSeed program, one of the algorithm leads for general agent optimization
     - **Project Experience**:
       - Seed 1.8 & Seed 2.0 & Seed 2.1 (Leading next-generation Agent foundation models, core contributor)
-      - Office Task Mode of 豆包专业版 (Doubao Pro) — built from the ground up as one of the algorithm leads
-      - 豆包专家模式 & 豆包超能模式 (Doubao Expert & Super Mode)
+      - Office Task Mode of 豆包专业版 (Doubao Pro) — as one of the algorithm leads
+      - Doubao Expert Mode (long-CoT reasoning that delivers expert-level answers to complex professional problems, improving quality in STEM, coding, domain expertise and creative writing) & Super Mode (豆包专家模式 & 豆包超能模式)
       - Agent-World (scalable real-world environment synthesis for evolving general agent intelligence)
       - Seed-Thinking long chain-of-thought reasoning model
       - Seed-Agent foundation model:
