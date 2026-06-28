@@ -1,6 +1,10 @@
 # 🔥 News
-- *2026.02* Release **Seed 2.0** as a core contributor, the leading Agent foundation models!
-- *2026.02* Release **豆包专家模式** and **豆包超能模式** 
+
+- *2026.06* Release **Seed 2.1** series, a next-generation agent foundation model for real-world productivity. Grateful to contribute to the general agent optimization as one of the algorithm core contributors.
+- *2026.06* Released the **Office Task Mode of 豆包专业版 (Doubao Pro)**, where I was fortunate to help build the project from the ground up as one of the algorithm leads.
+-  *2026.04* Released **Agent-World** ([paper](https://arxiv.org/pdf/2604.18292)), exploring scalable real-world environment synthesis for evolving general agent intelligence. Check out our demo!
+- *2026.02* Release **Seed 2.0** as a core contributor of general agent (i.e., Multi-modal Agent, Tool-Learning Agent, Search Agent, etc.), the leading Agent foundation models!
+- *2026.02* As the core contributor, released **豆包专家模式** and **豆包超能模式**.
 - *2025.12* Release **Seed 1.8** as a core contributor.
 - *2025.09* Release **UI-TARS-2**, a multi-modal unified agent models capable of coding, tool using and GUI operation, achieving leading performance.
 - *2025.04*: 🎉 Joined ByteDance Seed Edge team as Senior Research Scientist focusing on Large Language Models and Agent foundation models!

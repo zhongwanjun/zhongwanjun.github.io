@@ -3,7 +3,7 @@
 **钟宛君** || zhongwj25@mail2.sysu.edu.cn || https://zhongwanjun.github.io || (+86) 13609749192
 
 我目前在字节跳动Seed团队担任高级研究员，参与TopSeed人才计划。
-我的研究方向专注于大语言模型（LLMs）的复杂推理能力和Agent基座模型。
+我的研究方向专注于大语言模型（LLMs）的复杂推理能力与通用Agent基座模型，作为通用Agent优化的算法负责人之一，参与了字节跳动Seed系列模型（如Seed 2.1）及豆包产品的研发。
 我们正在招聘**研究实习生**并寻求**学术合作**，欢迎随时联系我：[wanjun@bytedance.com](mailto:wanjun@bytedance.com)
 
 在此之前，我曾在[华为诺亚方舟实验室](http://dev3.noahlab.com.hk/)担任高级研究员，参与华为天才少年计划。
@@ -13,5 +13,5 @@
 
 我于2021年获得[微软学者奖学金](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people)（每年亚太地区11名杰出博士生），并于2023年入选[华为天才少年计划](https://career.huawei.com/reccampportal/portal5/topminds.html)及ACM广州优秀博士论文奖。
 
-我曾在顶级AI会议和期刊上发表了40多篇论文，包括NeurIPS、ICLR、ACL、EMNLP、TASLP、NAACL、AAAI、IJCAI、ISSTA等。
+我曾在顶级AI会议和期刊上发表了50多篇论文，包括NeurIPS、ICLR、ACL、EMNLP、TASLP、NAACL、AAAI、IJCAI、ISSTA等。
 

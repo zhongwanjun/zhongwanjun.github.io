@@ -1,6 +1,8 @@
 
 # 📝 Publications 
 ## Works in Seed
+- ``Seed Technical Report`` [Seed2.1: A Next-Generation Agent Foundation Model for Real-World Productivity](https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity)
+- ``arXiv 2026`` [Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence](https://arxiv.org/pdf/2604.18292), Guanting Dong, Jianqiao Lu, Junjie Huang, **Wanjun Zhong**, Liang Liu, Shijue Huang, Zhenghao Li, Yang Zhao, Xiao Song, et al.
 - ``Seed Technical Report`` [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)
 - ``Seed Technical Report`` [Seed1.8 Model Card: Towards Generalized Real-World Agency](https://arxiv.org/abs/2603.20633)
 - ``Seed Technical Report`` [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.02544)
@@ -87,6 +89,8 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## General Agent Model & System
 ### Multi-modal Agent (GUI etc.)
+- ``Seed Technical Report`` [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2509.02544)
+- ``arXiv 2025`` [Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents](https://arxiv.org/abs/2510.23691), Zihao Wang, Xu Li, Yining Ye, Junjie Fang, Haoming Wang, Liang Liu, Shihao Liang, Jianqiao Lu, Zhenghao Wu, Jiazhan Feng, ..., **Wanjun Zhong**, et al.
 - ``Seed Technical Report`` [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326), Yujia Qin, Yining Ye, Junjie Fang, Haoming Wang, Shihao Liang, Shizuo Tian, Junda Zhang, Jiahao Li, Yunxin Li, Shijue Huang, **Wanjun Zhong**, Kuanye Li, Jiale Yang, Yu Miao, Woyu Lin, Longxiang Liu, Xu Jiang, Qianli Ma, Jingyu Li, Xiaojun Xiao, Kai Cai, Chuang Li, Yaowei Zheng, Chaolin Jin, Chen Li, Xiao Zhou, Minchao Wang, Haoli Chen, Zhaojian Li, Haihua Yang, Haifeng Liu, Feng Lin, Tao Peng, Xin Liu, Guang Shi
 
 ### Tool-Learning Agent
@@ -104,6 +108,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - ``AAAI 2024`` [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250), **Wanjun Zhong**, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang  
 
 ### Agent-driven Training
+- ``arXiv 2026`` [Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence](https://arxiv.org/pdf/2604.18292), Guanting Dong, Jianqiao Lu, Junjie Huang, **Wanjun Zhong**, Liang Liu, Shijue Huang, Zhenghao Li, Yang Zhao, Xiao Song, et al.
 - ``arXiv 2024`` [YODA: Teacher-Student Progressive Learning for Language Models](https://arxiv.org/pdf/2401.15670), Jianqiao Lu*, **Wanjun Zhong***, Yufei Wang, Zhijiang Guo, Qi Zhu, Wenyong Huang, Yanlin Wang, Fei Mi, Baojun Wang, Yasheng Wang, Lifeng Shang, Xin Jiang, Qun Liu (* equal contribution) 
 
 ## Benchmark and Evaluation
