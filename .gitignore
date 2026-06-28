@@ -1,1 +1,10 @@
 resume/
+
+# Build output (GitHub Pages rebuilds from source)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# macOS
+.DS_Store
+**/.DS_Store
